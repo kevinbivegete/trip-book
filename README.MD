@@ -4,6 +4,10 @@
 
 TripBook is an advanced fleet management system that provides comprehensive analytics, demand forecasting, and bus allocation optimization for transport routes in Rwanda, focusing on routes between Kigali, Musanze, and Gisenyi.
 
+## Dashboard Preview
+
+![TripBook Dashboard](./dash_board.png)
+
 ## Quick Start Guide
 
 Follow these steps to set up and run the TripBook Fleet Management system:
