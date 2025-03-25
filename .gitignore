@@ -1,0 +1,8 @@
+# Ignore analysis results
+analysis_results/
+
+# Ignore all CSV files
+*.csv
+
+# Optional: Ignore __pycache__
+__pycache__/
